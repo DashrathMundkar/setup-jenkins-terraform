@@ -1,5 +1,3 @@
-# setup-jenkins-terraform
-
 ### [Setup-Jenkins-on-VM](Setup-Jenkins-on-VM/)
 Terraform configuration to deploy Jenkins on an Azure Virtual Machine.
 - **Files:**
