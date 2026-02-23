@@ -1,4 +1,4 @@
-### [Setup-Jenkins-on-VM](Setup-Jenkins-on-VM/)
+### Setup-Jenkins-on-VM
 Terraform configuration to deploy Jenkins on an Azure Virtual Machine.
 - **Files:**
   - `main.tf` - Core Azure resources (vnet, subnet, NIC, NSG)
